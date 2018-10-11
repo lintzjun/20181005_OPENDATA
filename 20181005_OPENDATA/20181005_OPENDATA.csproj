@@ -6,4 +6,8 @@
     <RootNamespace>_20181005_OPENDATA</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+  </ItemGroup>
+
 </Project>
